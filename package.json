@@ -1,0 +1,40 @@
+{
+  "name": "@nikitababko/reset-css",
+  "version": "0.1.0",
+  "author": "Nikita Babko <niki.babko@gmail.com>",
+  "description": "An modified copy of Eric Meyer's CSS reset",
+  "keywords": [
+    "reset",
+    "styles",
+    "reset css",
+    "reset-css",
+    "reset styles",
+    "reset-styles"
+  ],
+  "main": "reset.styles.css",
+  "files": [
+    "reset.styles.css"
+  ],
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@commitlint/cli": "17.3.0",
+    "@commitlint/config-conventional": "17.3.0",
+    "@release-it/conventional-changelog": "5.1.1",
+    "commitizen": "4.2.6",
+    "cz-customizable": "7.0.0",
+    "husky": "8.0.2",
+    "release-it": "15.5.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
+    },
+    "cz-customizable": {
+      "config": "commitizen.config.json"
+    }
+  },
+  "scripts": {
+    "prepare": "npx husky install"
+  }
+}
