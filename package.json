@@ -17,6 +17,12 @@
   ],
   "license": "MIT",
   "private": false,
+  "engines": {
+    "node": ">=16.5.0",
+    "pnpm": ">=7.9.3",
+    "npm": ">=8.13.2",
+    "yarn": ">=1.22.18"
+  },
   "devDependencies": {
     "@commitlint/cli": "17.3.0",
     "@commitlint/config-conventional": "17.3.0",
