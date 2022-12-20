@@ -1,5 +1,12 @@
 
 
+## [1.0.1](https://github.com/nikitababko/reset-css/compare/1.0.0...1.0.1) (2022-12-20)
+
+
+### 🛠 Builds
+
+* **package.json:** add 'engines' ([a622e84](https://github.com/nikitababko/reset-css/commit/a622e84475cccde7f08b712bc30baa48d0144c7b))
+
 ## 1.0.0 (2022-12-20)
 
 
