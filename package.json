@@ -12,6 +12,7 @@
     "reset-styles"
   ],
   "main": "reset.styles.css",
+  "style": "reset.styles.css",
   "files": [
     "reset.styles.css"
   ],
