@@ -1,5 +1,17 @@
 
 
+## [1.0.2](https://github.com/nikitababko/reset-css/compare/1.0.1...1.0.2) (2022-12-24)
+
+
+### 📚 Documentation
+
+* **README.md:** fix description project ([508c88b](https://github.com/nikitababko/reset-css/commit/508c88bb83d091b0bebfa0d42cfb0b33f3d865ab))
+
+
+### 🛠 Builds
+
+* **package.json:** add field 'style' ([82cd704](https://github.com/nikitababko/reset-css/commit/82cd7046a5c011e6b16edd2d93e560ffd9f0082d))
+
 ## [1.0.1](https://github.com/nikitababko/reset-css/compare/1.0.0...1.0.1) (2022-12-20)
 
 
