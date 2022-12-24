@@ -1,6 +1,6 @@
 # reset css
 
-An modified copy of Eric Meyer's [CSS reset](https://meyerweb.com/eric/tools/css/reset/).
+Modified copy of Eric Meyer's [CSS reset](https://meyerweb.com/eric/tools/css/reset/).
 
 ## Install
 
