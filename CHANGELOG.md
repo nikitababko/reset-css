@@ -1,5 +1,12 @@
 
 
+## [1.0.3](https://github.com/nikitababko/reset-css/compare/1.0.2...1.0.3) (2023-04-26)
+
+
+### 📚 Documentation
+
+* fix installation instruction ([424ae51](https://github.com/nikitababko/reset-css/commit/424ae51e69c3ed90f613cc06c2c5473a0ed3e1b1))
+
 ## [1.0.2](https://github.com/nikitababko/reset-css/compare/1.0.1...1.0.2) (2022-12-24)
 
 
